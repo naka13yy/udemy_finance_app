@@ -1,0 +1,4 @@
+streamlit==1.00.0
+requests.api
+yfinance
+altair
